@@ -1,0 +1,2 @@
+# WaveHubFreeScript
+Normal
